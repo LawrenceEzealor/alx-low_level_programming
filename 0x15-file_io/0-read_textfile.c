@@ -1,5 +1,6 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include "main.h"
-
 
 /**
 * read_textfile - check the code for Holberton School students.
