@@ -5,7 +5,7 @@
 
 /**
 * _strlen - find the length of a string
-* @s: pointer to the string to check
+* @s: The  pointer to the string to check
 * Return: void
 */
 
@@ -21,7 +21,7 @@ return (i);
 
 
 /**
-* binary_to_uint - converts a binary number to an unsigned int
+* binary_to_uint - converts a binary number to an unsigned integer
 * @b: binary number
 * Return: 0 or converted number
 */
